@@ -4,7 +4,7 @@
 🦾Currently working as an Electrical Engineer @[UBC Bionics Design Team](https://www.ubcbionics.com/) #robotics #prosthetics<br/>
 🌱Currently working as a Mechatronics Engineer @[UBC Agrobot Design Team](https://ubcagrobot.com/) #sustainability #greentech<br/>
 👩‍💻Currently working as a Mentorship Coordinator @[UBC Women in Data Science](https://www.ubcwids.com/) #datascience #mentor<br/>
-🌎Constantly learning Computer Science/Software Engineering Foundations to interact with the ditigal world</br>
+🌎Constantly enhancing Computer Science/Software Engineering Foundations to interact with the ditigal world better </br>
 
 <!--
 **ElinNageum/ElinNageum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
