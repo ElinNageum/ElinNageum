@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Elin! Thank you for stoping by 😊
-🧬Studying [Biomedical Engineering]([url](https://bme.ubc.ca/)) at the University of British Columbia, Vancouver, BC, Canada<br/>
+🧬Studying [Biomedical Engineering](https://bme.ubc.ca/) at the University of British Columbia, Vancouver, BC, Canada<br/>
 
 <!--
 **ElinNageum/ElinNageum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
