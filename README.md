@@ -3,7 +3,7 @@ I am passionate about making the world better than yesterday!
 
 ## Academics:
 🧬Studying [Biomedical Engineering](https://bme.ubc.ca/) & [Commerce](https://www.sauder.ubc.ca/programs/bachelors-degrees/bachelor-commerce?gad_source=1&gclid=Cj0KCQiAvbm7BhC5ARIsAFjwNHth2Q-QgtgoftUWETkbHzq-f0D9Euck0nAhgVVDAf1etN65gBb5pgUaAjA9EALw_wcB&gclsrc=aw.ds) at the University of British Columbia, Vancouver, BC, Canada<br/>
-🤖Interested in Data Science, Robotics, Mechatronics & Machine Learning -> current mechatronics R&D internship @[Berlinguette Research Group](https://www.youtube.com/watch?v=JgJIj5_RAhg)<br/>
+🤖Interested in Data Science, Robotics, Mechatronics & Machine Learning -> mechatronics R&D internship @[Berlinguette Group](https://www.youtube.com/watch?v=JgJIj5_RAhg)<br/>
 
 ## Extracurriculars:
 🦾Currently working as an Electrical Engineer @[UBC Bionics Design Team](https://www.ubcbionics.com/) #robotics #prosthetics<br/>
