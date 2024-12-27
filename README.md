@@ -1,5 +1,9 @@
 ## 👋 Hi, I'm Elin! Thank you for stoping by 😊
 🧬Studying [Biomedical Engineering](https://bme.ubc.ca/) at the University of British Columbia, Vancouver, BC, Canada<br/>
+🤖Interested in Robotics, Mechatronics & Machine Learning -> current internship @[Berlinguette Research Group](https://www.youtube.com/watch?v=JgJIj5_RAhg)
+🦾Currently working as an Electrical Engineer @[UBC Bionics Design Team](https://www.ubcbionics.com/) #robotics #prosthetics
+🌱Currently working as a Mechatronics Engineer @[UBC Agrobot Design Team](https://ubcagrobot.com/) #sustainability #greentech
+👩‍💻Currently working as a Mentorship Coordinator @[UBC Women in Data Science](https://www.ubcwids.com/) #datascience #mentor
 
 <!--
 **ElinNageum/ElinNageum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
