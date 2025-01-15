@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Elin! Thank you for stoping by 😊
+## 👋 Hi, I'm Elin! Thank you for stopping by 😊
 I am passionate about making the world better than yesterday!
 
 ## Academics:
