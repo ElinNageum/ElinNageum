@@ -6,7 +6,7 @@ I am passionate about making the world better than yesterday!
 🤖Interested in Data Science, Robotics, Mechatronics & Machine Learning -> mechatronics R&D internship @[Berlinguette Group](https://www.youtube.com/watch?v=JgJIj5_RAhg)<br/>
 
 ## Extracurriculars:
-🦾Currently working as an Electrical Engineer @[UBC Bionics Design Team](https://www.ubcbionics.com/) #robotics #prosthetics<br/>
+🦾Currently working as an Electrical/Embedded Software Engineer @[UBC Bionics Design Team](https://www.ubcbionics.com/) #robotics #prosthetics<br/>
 🌱Currently working as a Mechatronics Engineer @[UBC Agrobot Design Team](https://ubcagrobot.com/) #sustainability #greentech<br/>
 👩‍💻Currently working as a Mentorship Coordinator @[UBC Women in Data Science](https://www.ubcwids.com/) #datascience #mentor<br/>
 🌎Constantly enhancing Computer Science/Software Engineering Foundations to interact with the digital world better</br>
