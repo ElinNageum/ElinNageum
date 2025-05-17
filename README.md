@@ -7,7 +7,6 @@ I am passionate about making the world better than yesterday!
 
 ## Extracurriculars:
 🦾Currently working as an Electrical/Embedded Software Engineer @[UBC Bionics Design Team](https://www.ubcbionics.com/) #robotics #prosthetics<br/>
-🌱Currently working as a Mechatronics Engineer @[UBC Agrobot Design Team](https://ubcagrobot.com/) #sustainability #greentech<br/>
 👩‍💻Currently working as a Mentorship Coordinator @[UBC Women in Data Science](https://www.ubcwids.com/) #datascience #mentor<br/>
 🌎Constantly enhancing Computer Science/Software Engineering Foundations to interact with the digital world better</br>
 
