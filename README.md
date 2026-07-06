@@ -11,7 +11,7 @@ I am passionate about making the world better than yesterday!
 ✍️I am a blog writer! </br>
 
 ✨Contact me via [LinkedIn](https://www.linkedin.com/in/elin-lee-a44859208/)</br>
-😄I am looking for summer 2026 internship!!</br>
+😄I am looking for a full-time new-grad role starting in Fall 2027!!</br>
 
 <!--
 **ElinNageum/ElinNageum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
