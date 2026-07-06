@@ -3,7 +3,7 @@ I am passionate about making the world better than yesterday!
 
 ## Academics:
 🧬Studying [Biomedical Engineering](https://bme.ubc.ca/) & [Commerce](https://www.sauder.ubc.ca/programs/bachelors-degrees/bachelor-commerce?gad_source=1&gclid=Cj0KCQiAvbm7BhC5ARIsAFjwNHth2Q-QgtgoftUWETkbHzq-f0D9Euck0nAhgVVDAf1etN65gBb5pgUaAjA9EALw_wcB&gclsrc=aw.ds) at the University of British Columbia, Vancouver, BC, Canada<br/>
-🤖Interested in Data Science, Robotics, Mechatronics & Machine Learning -> TPM & passive safety performance engineering internship @[Tesla](https://www.tesla.com/),<br/> mechatronics R&D internship @[Berlinguette Group](https://www.youtube.com/watch?v=JgJIj5_RAhg)<br/> & electrical test engineering internship @[Kardium](https://kardium.com/)
+🤖Interested in Data Science, Robotics, Mechatronics & Machine Learning -> TPM & passive safety performance engineering internship @[Tesla](https://www.tesla.com/), mechatronics R&D internship @[Berlinguette Group](https://www.youtube.com/watch?v=JgJIj5_RAhg) & electrical test engineering internship @[Kardium](https://kardium.com/)
 
 ## Hobbies:
 🏊I am a beginner swimmer!</br>
